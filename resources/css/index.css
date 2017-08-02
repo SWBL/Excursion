@@ -1,0 +1,55 @@
+h1 {
+	font-family: Verdana;
+	font-weight: Normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+
+}
+
+h2 {font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color:White;
+	text-align: center;
+
+	
+}
+
+p {
+	font-family: Verdana;
+	font-size: 21px;
+	color: grey;
+}
+
+a.cta{
+	color: Aquamarine;
+	font-family: Verdana
+	font-size:16px;
+	text-decoration: underline;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+body {
+	background-color: black;
+	}
+
+video {
+		display: block;
+		margin: 0 auto;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+P {
+	text-align: center;
+}
+
+div P {
+	text-align: right;
+}
